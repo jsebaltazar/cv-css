@@ -1,0 +1,179 @@
+/******************************     pri          ******************************/
+h1{
+  margin:0 0;
+}
+
+body{
+  text-align: center;
+
+    font-family: Merriweather, serif;
+    font-style: normal;
+    line-height: 1em;
+    font-size: 1em;
+
+  }
+
+.par{
+  text-align: center;
+  margin:150px auto 0;
+  font-family: Merriweather, serif;
+  font-style: normal;
+  line-height: 1em;
+  font-size: 2.5em;
+  width: 900px;
+    text-transform: NONE;
+
+}
+
+
+/******************************     HEADER          ******************************/
+.top {
+  color: #fff;
+  text-align: center;
+  background-color: #2b2b28;
+  font-family: Lato, sans-serif;
+  font-weight: 100;
+  padding-top: 10em;
+  padding-bottom: 11em;
+  width:60%;
+  margin:0 auto;
+}
+
+.top-r1 {
+  margin:30px auto;
+  color: #FFF;
+  font-family: Rock Salt, sans-serif;
+  font-size: 8em;
+  line-height: 1em;
+  font-weight: 200;
+}
+
+.top-r2 {
+  margin:30px auto;
+  padding: 0;
+    font-family: Permanent Marker, serif;
+  font-size: 2em;
+  line-height: 1em;
+  font-weight: 100;
+  position: relative;
+
+}
+
+/******************************     INTRO          ******************************/
+.top-intro {
+  background-color: #f8f8f8;
+  font-size: 5em;
+  line-height: 1em;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.top-intro-r1 {
+  font-size: 2em;
+  font-weight: 100;
+  font-family: sans-serif;
+    margin:80px auto 90px;
+}
+
+.top-greeting {
+
+  text-align: center;
+  margin:30px auto 0;
+  font-family: Merriweather, serif;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1em;
+  font-size: .5em;
+  width: 900px;
+  min-width: 800px;
+  display: block;
+    padding-bottom: 6em;
+}
+
+.top-profile-pic {
+  border-radius: 50%;
+  width: 350px;
+  padding: 0;
+  padding-top: 50px;
+}
+
+/******************************     CONTENT    SKILLS      ******************************/
+.mid-content {
+  text-align: center;
+  background-color: #343434;
+  font-family: Raleway, sans-serif;
+  height: 100vh;
+  width: 60%;
+  margin: 0 auto 0;
+
+}
+
+.mid-header-r1{
+
+  color: #FFF;
+    font-size: 10em;
+  font-weight: 100;
+    font-family: Montserrat, sans-serif;
+      text-transform: uppercase;
+height: 10px;
+
+}
+
+/******************************     CONTENT   WORK       ******************************/
+.bot-content {
+  text-align: center;
+  background-color: #DADDD8;
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+  height: 100vh;
+  width: 60%;
+  margin: 0 auto;
+}
+.bot-header-r1{
+
+  color: #FFF;
+    font-size: 10em;
+  font-weight: 100;
+    font-family: Montserrat, sans-serif;
+
+
+height: 10px;
+
+}
+
+
+/******************************     CONTACT          ******************************/
+.contact-me {
+  text-align: center;
+  background-color: #343434;
+  font-family: Raleway, sans-serif;
+
+  height: 100vh;
+  width: 60%;
+  margin: 0 auto;
+}
+.contact-me-r1{
+
+  color: #FFF;
+    font-size: 10em;
+  font-weight: 100;
+    font-family: Montserrat, sans-serif;
+
+height: 10px;
+
+}
+.btn{
+  display: inline-block;
+
+  padding:100px;
+  font-size: 3em;
+font-weight: 100;
+  font-family: Montserrat, sans-serif;
+  color:red;
+}
+
+.bottom-container{
+  margin:0 auto;
+  padding: 0;
+}
