@@ -15,10 +15,18 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
 }
+h3{
+
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+
+}
 
 p{
   margin:0 auto 0;
       padding: 50px auto 50px;
+      font-size: 1.5rem;
 }
 
 hr{
@@ -97,9 +105,10 @@ top:250px;
   width: 35%;
   line-height: 1.5;
 font-family: serif;
-font-size: 100%;
+font-size: 1.5rem;
 font-weight: 500;
 padding-bottom: 50px;
+
 }
 
 
@@ -153,8 +162,6 @@ padding-bottom: 50px;
 
   font-family: serif;
     color:black;
-
-
 
 }
 
